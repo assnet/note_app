@@ -1,7 +1,3 @@
-![scalable-notes-app2](https://github.com/user-attachments/assets/232646b8-ce14-4f99-a511-e9a6f052fc60)
-
-## ![🔗Watch Tutorial Here](https://youtu.be/G3I8mdc_fPI)
-
 ℹ️ This was not showed in the tutorial
 please add
 in `notes_app_backend/.env`
